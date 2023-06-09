@@ -1,1 +1,0 @@
-eu tenho o cluster number no arquivo de 21 mil musicas, e tenho o cluster number no top 200. se a pessoa não digita uma musica que esta no top 200 como vou saber o cluster number da musica?
